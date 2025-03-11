@@ -8,7 +8,7 @@ python blocks.py HEIGHTxWIDTH [LIST OF BLOCKS]
 Example:
 python blocks.py 10x10 5x5 5x5 5x5 5x5
 
-Sample Output:
+Sample Output:\
 AAAAABBBBB\
 AAAAABBBBB\
 AAAAABBBBB\
