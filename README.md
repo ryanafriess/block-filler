@@ -9,7 +9,7 @@ Example:
 python blocks.py 10x10 5x5 5x5 5x5 5x5
 
 Sample Output:
-AAAAABBBBB
+AAAAABBBBB \n
 AAAAABBBBB
 AAAAABBBBB
 AAAAABBBBB
